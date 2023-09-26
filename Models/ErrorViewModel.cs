@@ -1,4 +1,4 @@
-namespace SchoolManagementApp.MVC.Models
+namespace SchoolManagementApp.MVC.Data
 {
     public class ErrorViewModel
     {

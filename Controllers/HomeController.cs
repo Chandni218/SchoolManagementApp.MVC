@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using SchoolManagementApp.MVC.Models;
+using SchoolManagementApp.MVC.Data;
 using System.Diagnostics;
 
 namespace SchoolManagementApp.MVC.Controllers
